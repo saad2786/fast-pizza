@@ -2,7 +2,9 @@
 
 This is a web application built with React and Vite where users can order pizzas from a menu.
 
-![Pizza Online Order Web App](./pizza-online-order.png)
+![Pizza Online Order Web App](./pizzaHome.png)
+
+![Pizza Online Order Web App](./pizzaMenu.png)
 ## Features
 
 - **Menu Display**: Users can view the available pizzas in the menu.
