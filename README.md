@@ -12,8 +12,9 @@ This is a web application built with React and Vite where users can order pizzas
 ## Technologies Used
 
 - React
+- Redux toolkit
 - Vite
-- CSS (for styling)
+- Tailwind (for styling)
 - JavaScript (ES6+)
 
 ## Getting Started
